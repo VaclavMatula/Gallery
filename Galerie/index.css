@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  justify-content: space-evenly;
+  margin :auto;
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+img {
+  width: 400px;
+  transition: 1s;
+  }
+
+img:hover {
+  transition: 1s;
+  width: 550px;
+  }
